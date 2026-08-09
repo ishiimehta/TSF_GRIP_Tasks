@@ -1,5 +1,7 @@
-# Task 5
+## Task 5: IPL Analysis
 - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’.
 - As a sports analysts, find out the most successful teams, players and factors
 contributing win or loss of a team.
 - Suggest teams or players a company should endorse for its products.
+
+**Tools:** Python · Pandas · Matplotlib · Seaborn
