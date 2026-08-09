@@ -1,4 +1,4 @@
-# Sparks Foundation — GRIP Tasks
+# Sparks Foundation: GRIP Tasks
 
 Machine learning and data analysis projects completed as part of **The Sparks Foundation's Graduate Rotational Internship Program (GRIP)**.
 
@@ -35,7 +35,7 @@ Each task contains its corresponding Jupyter Notebook, dataset, and a short desc
 ```text
 TSF_GRIP_Tasks/
 │
-├── Task1/
+├── Task 1/
 ├── Task 2/
 ├── Task 3/
 ├── Task 4/
